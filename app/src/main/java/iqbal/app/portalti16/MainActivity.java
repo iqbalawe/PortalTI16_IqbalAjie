@@ -14,7 +14,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Ini punya Iqbal Ajie Wahyudin
+ * Ini punya Iqbal Ajie Wahyudin Teknik Informatika 2016
  */
 
 public class MainActivity extends AppCompatActivity {
